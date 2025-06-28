@@ -56,7 +56,7 @@
 
 **Realtime Pizza** is a comprehensive, full-stack web application that allows users to order pizzas online with real-time order tracking. Built with modern web technologies, it provides a seamless experience from browsing the menu to receiving live updates about order status.
 
-The application features a responsive design, secure user authentication, real-time notifications, and an intuitive admin panel for order management. It's designed to handle the complete pizza ordering workflow with real-time communication between customers and administrators.
+The application features a responsive design, secure user authentication, real-time notifications, and an intuitive admin panel for order management. It is designed to handle the complete pizza ordering workflow with real-time communication between customers and administrators.
 
 ### 🎯 Key Highlights
 
