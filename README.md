@@ -264,7 +264,7 @@ Before you begin, ensure you have the following installed:
    - Each pizza displays name, image, size, and price
 
 2. **Add to Cart**
-   - Click the "+" button to add pizzas to your cart
+   - Click the '+' button to add pizzas to your cart
    - Cart counter updates in real-time
 
 3. **Create Account**
