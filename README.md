@@ -97,16 +97,6 @@ The application features a responsive design, secure user authentication, real-t
 
 ---
 
-## 🎯 Demo
-
-🌐 **Live Application**: [https://realtime-pizza-flame.vercel.app](https://realtime-pizza-flame.vercel.app)
-
-### 📸 Screenshots
-
-*Coming Soon - Application screenshots showcasing the user interface and features*
-
----
-
 ## 🏗️ Architecture
 
 The application follows a traditional MVC (Model-View-Controller) architecture with the following components:
