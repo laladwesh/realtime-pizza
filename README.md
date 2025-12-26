@@ -657,7 +657,7 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Acknowledgments
 
-- [Express.js](https://expressjs.com/) - Fast, unopinionated web framework
+- [Express.js](https://expressjs.com/) - Fast, unopinionated web framework.
 - [Socket.io](https://socket.io/) - Real-time bidirectional communication
 - [MongoDB](https://www.mongodb.com/) - Document database
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
