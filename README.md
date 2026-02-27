@@ -231,7 +231,7 @@ Before you begin, ensure you have the following installed:
    ```
 
 6. **Start the Application**
-   ```bash
+   ``` bash
    # Development mode with auto-restart
    npm run dev
    
