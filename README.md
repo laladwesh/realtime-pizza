@@ -1,4 +1,4 @@
-# 🍕 Realtime Pizza - Full Stack Pizza Ordering Application
+# 🍕 Realtime Pizza - Full Stack Pizza Ordering Applications
 
 <div align="center">
 
